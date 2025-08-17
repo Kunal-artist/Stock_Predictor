@@ -1,6 +1,6 @@
-# 🇮🇳 Indian Stock Price Predictor
+# Indian Stock Price Predictor
 
-This project is a web application built with **Streamlit** that predicts the next day's stock prices (Open, High, Low, Close) for various Indian stocks listed on the National Stock Exchange (NSE). It uses a combination of technical analysis, machine learning, and an optional **Reinforcement Learning (Q-Learning)** module to enhance prediction accuracy. The application provides an interactive and user-friendly interface for visualizing data, analyzing model performance, and getting future price predictions.
+This project is a python code that predicts the next day's stock prices (Open, High, Low, Close) for various Indian stocks listed on the National Stock Exchange (NSE). It uses a combination of technical analysis, machine learning, and an optional **Reinforcement Learning (Q-Learning)** module to enhance prediction accuracy. The application provides an interactive and user-friendly interface for visualizing data, analyzing model performance, and getting future price predictions.
 
 ***
 
