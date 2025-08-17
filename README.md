@@ -6,7 +6,6 @@ This project is a python code that predicts the next day's stock prices (Open, H
 
 ## ✨ Key Features
 
--   **Interactive UI**: A clean and modern interface built with Streamlit, making it easy for users to select stocks and configure parameters.
 -   **Comprehensive Stock List**: Includes a pre-loaded list of major Indian stocks across various sectors, along with a search functionality. Users can also input any custom NSE ticker.
 -   **Next-Day Price Prediction**: Predicts the Open, High, Low, and Close (OHLC) prices for the next trading day.
 -   **Reinforcement Learning Enhancement**: An optional Q-Learning model can be enabled to dynamically optimize prediction parameters based on past performance, potentially improving accuracy.
